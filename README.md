@@ -1,0 +1,2 @@
+# .Ghc
+Glasgow compiler config
